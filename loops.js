@@ -24,5 +24,6 @@ function doWhileLoop(array){
 }
  do {
    array.slice(1);
- } 
+   return array;
+ } while ()
 }
